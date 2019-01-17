@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Software Engineering With Javascript
-date: 2015-08-26
+date: 2019-01-16
 labels:
   - Software Engineering
   - Learning
