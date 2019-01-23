@@ -9,7 +9,7 @@ labels:
 ---
 As a budding software engineer, learning to ask questions the right way is an extremely important skill to know. Any programmer will tell you resources such as Google and Stack Overflow are invaluable tools for learning and problem solving during projects. The two often go hand in hand if the programmer is smart and does his own research before resorting to asking questions. If however, the programmer does not take time, he may end up wasting both his and others time.
 <h3>A Smart Question</h3>
-<h6><a>https://stackoverflow.com/questions/54258241/warning-iso-c-forbids-converting-a-string-constant-to-char-for-a-static-c</a></h6>
+<h6>[https://stackoverflow.com/questions/54258241/warning-iso-c-forbids-converting-a-string-constant-to-char-for-a-static-c]</h6>
 In this Stack Overflow question the user uses a clear and concise header to start the question, just using the error message he received from trying his program he posts "Warning: ISO C++ forbids converting a string constant to ‘char*’ for a static `constexpr char*` data member". Then, in asking the question, he includes a reference he found from cppreference.com which he questions why his code does not work if the reference is true. He also includes snippets of his code and what he's tried to resolve it, saying, "If I add a const after constexpr, the warning is gone:". Finally, he asks the main point of his question, "Does the constexpr not imply const on static data members?". This user shows in practice how to ask a smart question, using a smart header, showing the research he's done prior to asking and finishing with a concise final question. In response the user gets 26 upvotes and well thought out responses.
 
 <h3>A Stupid Question</h3>
