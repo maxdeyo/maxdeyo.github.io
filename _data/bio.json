@@ -2,7 +2,7 @@
   "basics": {
     "name": "Max Deyo",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/profilePic.jpg",
+    "picture": "https://techfolios.github.io/images/profilePic.jpg",
     "email": "maxdeyo@hawaii.edu",
     "phone": "530-277-3743",
     "website": "https://maxdeyo.github.io",
@@ -22,18 +22,8 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "max-deyo",
+        "url": "https://www.linkedin.com/in/max-deyo-629165178/"
       }
     ]
   },
