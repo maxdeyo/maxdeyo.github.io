@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/
+image: images/worldfest.jpg
 title: Worldfest
-permalink: projects/micromouse
+permalink: projects/worldfest
 # All dates must be YYYY-MM-DD format!
 date: 2018-07-13
 labels:
