@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/
+image: images/hague.jpg
 title: My Travel Overseas
 permalink: projects/travel
 # All dates must be YYYY-MM-DD format!
