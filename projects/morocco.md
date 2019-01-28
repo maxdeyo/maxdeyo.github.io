@@ -4,7 +4,7 @@ layout: project
 type: project
 image: images/chefchaouen.jpg
 title: Morocco
-permalink: projects/morocco
+permalink: projects/morocco.jpg
 # All dates must be YYYY-MM-DD format!
 date: 2017-12-01
 labels:
