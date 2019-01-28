@@ -2,7 +2,7 @@
 ---
 layout: project
 type: project
-image: images/
+image: images/chefchaouen.jpg
 title: Morocco
 permalink: projects/morocco
 # All dates must be YYYY-MM-DD format!
