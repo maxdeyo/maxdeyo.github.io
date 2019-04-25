@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Design Patterns in Athletic Software Engineering
+title: Design Patterns in Music
 date: 2019-04-24
 labels:
   - Software Engineering
