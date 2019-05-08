@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: http://manoastudyhub.meteorapp.com/images/image1.png
+image: images/image1.png
 title: Manoa Study Hub
 permalink: projects/studyhub
 # All dates must be YYYY-MM-DD format!
