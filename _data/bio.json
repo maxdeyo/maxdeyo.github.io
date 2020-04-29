@@ -6,7 +6,7 @@
     "email": "maxdeyo@hawaii.edu",
     "phone": "530-277-3743",
     "website": "https://maxdeyo.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2021.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2020.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -39,7 +39,12 @@
       ]
     },
     {
-      "name": "Artificial Intelligence",
+      "name": "Front End Development",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Data Visualization / Mapping",
       "keywords": [
       ]
     }
@@ -49,12 +54,14 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
         "Javascript",
         "React",
-        "Meteor"
+        "Meteor",
+        "Java",
+        "React Native",
+        "HTML/CSS",
+        "Java",
+        "Mapbox"
       ]
     },
     {
@@ -108,7 +115,8 @@
       "endDate": "Present",
       "summary": "Assists in designing Advising Center's Wordpress Website. Assists in general tech duties.",
       "highlights": [
-        ""
+        "Working on MAC and Exploratory websites",
+        "Using Google Apps Script in conjuction with Google Forms and Sheets to generate employee evalutations"
       ]
     }
   ],
