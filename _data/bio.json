@@ -102,22 +102,11 @@
       "startDate": "2019-01-07",
       "endDate": "Present",
       "gpa": "3.35",
-      "courses": [
-        {
-          "name": "ICS 311 Algorithms"
-        },
-        {
-          "name": "ICS 314 Software Engineering"
-        },
-        {
-          "name": "ICS 332 Operating Systems(In Progress)"
-        },
-        {
-          "name": "ICS 321 Database Systems(In Progress)"
-        },
-        {
-          "name": "ICS 451 Data Networks(In Progress)"
-        }
+      "courses": ["ICS 311 Algorithms",
+                  "ICS 314 Software Engineering",
+                  "ICS 332 Operating Systems(In Progress)",
+                  "ICS 321 Database Systems(In Progress)",
+                  "ICS 451 Data Networks(In Progress)"
       ]
     }
   ],
