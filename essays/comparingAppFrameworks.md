@@ -12,8 +12,7 @@ labels:
 ---
 
 In evaluating the different options available to us when choosing a native app framework to use, there are a variety of factors to consider. First, what are the languages and frameworks the development kit is based on and how does that sync up with our team members skillsets? Second, what platforms are available to develop for and how easy is porting from platform to platform? Third, how active is the community and how much third party tools and help is there to pull from. Each framework listed below has their own benefits and all of them are possible options.
-I've made a small Google Sheet to show the different features of each. Anyone with a UH email can edit. Some of the sheet may be unclear or inaccurate due to third-party solutions.
-[https://docs.google.com/spreadsheets/d/137Q3dlUc6_9NOkgH2uKdiUPDAf3X1_xyr-D9F60A0jU/edit?usp=sharing]
+I've made a [small Google Sheet](https://docs.google.com/spreadsheets/d/137Q3dlUc6_9NOkgH2uKdiUPDAf3X1_xyr-D9F60A0jU/edit?usp=sharing) to show the different features of each. Anyone with a UH email can edit. Some of the sheet may be unclear or inaccurate due to third-party solutions.
 
 <H2>Xamarin</H2>
 Honestly the least likely choice in my mind. Like most .NET products using Xamarin means learning unique Microsoft languages, including C# and XAML. Xamarin.Mac, Xamarin.iOS and Xamarin.Android all allow you to target individual OS's but it appears Xamarin.Forms is the only option which allows a shared logic and UI codebase; but only across Android, iOS and Windows. Xamarin.Forms claims to be free and open-source but apparently the overall platform charges for enterprise. The headaches of learning an entirely new language, markup language and framework seems to be too much, and uncertainty over price doesn't help.
