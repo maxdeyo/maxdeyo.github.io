@@ -6,6 +6,16 @@ date: 2020-05-22
 labels:
   - CSExplore
 ---
+<H2>Code.org</H2>
+Code.org is a non-profit which aims to engage students in CS through coding lessons, outreach to schools and events. Their Hour of Code event takes place once a year and uses online tutorials to teach coding globally. The interesting part is while Hour of Code takes place once a year, they've set it up so educators can organize one at anytime of the year. Like a lot of organizations code.org targets the underrepresented and in-need populations in CS including women, minorities and lower-income students. This is something I think we need keep in mind. Reaching out to the less likely to participate in CS could mean pushing events or organizations which are more welcoming to all people.
+
+<H2>Exploring CS</H2>
+Similar to code.org, ExploringCS is a CS curriculum targeting HS students. The curriculum is designed to align with college prep. coursework and Career and Technical Education pathways. In addition to their CS curriculum there is professional development modules for teachers. This is something to consider, if we can smoothly integrate benefits for teachers to use CSExplore we could create a greater connection between teachers and students.
+
+<H2>Hack Club</H2>
+Hack Club gives students the power to organize CS clubs themselves and gives them a framework to do so. In addition to clubs it offers a huge array of different features to make the clubs integrated in a global network. This includes workshops, hackathons, AMA's and a public Slack channel. They get backing and influence from big names too, with Elon Musk hosting an AMA a couple months ago. 
+
+
 In exploring the different resources available online to base CSExplore on, it seems like there is a lot of different ways we could take this project. More than just the resources, we also have the whole Radgrad infrastructure to pull from. 
 One of my worries in building CSExplore is the limited scope of the userbase. I'm concerned that only those who absolutely want to major in Computer Science in College would use it. Today Computer Science has influence in practically every discipline and knowing basic programming can be useful for almost everyone. I hope that in making CSExplore we can give resources to those not interested in a career strictly in Computer Science to still take part. This could mean an Entreprenuerial minded student connecting with a team of programmers or a non-STEM student learning programming for its day-to-day applications.
 
