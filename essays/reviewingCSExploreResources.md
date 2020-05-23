@@ -6,6 +6,7 @@ date: 2020-05-22
 labels:
   - CSExplore
 ---
+
 <H2>Code.org</H2>
 Code.org is a non-profit which aims to engage students in CS through coding lessons, outreach to schools and events. Their Hour of Code event takes place once a year and uses online tutorials to teach coding globally. The interesting part is while Hour of Code takes place once a year, they've set it up so educators can organize one at anytime of the year. Like a lot of organizations code.org targets the underrepresented and in-need populations in CS including women, minorities and lower-income students. This is something I think we need keep in mind. Reaching out to the less likely to participate in CS could mean pushing events or organizations which are more welcoming to all people.
 
