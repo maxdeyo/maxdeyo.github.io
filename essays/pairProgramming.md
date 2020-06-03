@@ -21,8 +21,12 @@ In my third remote pair programming session on Tuesday 6/2, I worked one on one 
 This time me and Hanna didn't have that much to talk about as we had covered most of what were working on in the previous meetings. She asked a couple questions about issues with FlooBits not saving and we tested it out and I believe fixed any issues with saving. We also continued to talk about directions to take this project and compared FlooBits with Codetogether. 
 
 ## Thoughts
-Since we haven't started building the CSExplore app we focused mostly on our markdown files. This worked well enough for testing the technologies and explaining our mockups to each other, but hopefully we will soon be able to test more concrete programming.
+Using pair programming seems like a useful tool to collaborate with teammates. Since we haven't started building the CSExplore app we focused mostly on our markdown files. This worked well enough for testing the technologies and explaining our mockups to each other, but hopefully we will soon be able to test more concrete programming.
+
+### Zoom 
 Zoom worked well in conjuction with the codesharing tools. Being able to share our screens we were able to jump from code to Figma to the running app seamlessly while talking. The breakout rooms seem like they could be a powerful tool in remote pair programming. This could mean staying in after the daily meeting and asking questions and sharing code with the teamates, or in meetings we set up ourselves we could divide into groups and do one-on-one programming while still being in four(or more) person meetings. 
+
+### CodeTogether and FlooBits
 Both code-sharing platforms we tried(CodeTogether and FlooBits) got the job done. Both allowed us to edit from the browser, share with all 4 partners and featured some kind of summoning feature. The only issue with either was that CodeTogether didn't allow more than one person to edit at a time. Hanna indicated to me that she preferred Codetogether while it seems like Angeli and Quinne prefer Floobits. I have no real preference for either and I think this is something where we can choose either on a case-by-case basis depending on who's working. Floobits seems to be better for more than 2 people as it supports unlimited people typing which Codetogether doesn't. 
 
 ## Other Things to Try
