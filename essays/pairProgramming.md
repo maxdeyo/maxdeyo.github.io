@@ -35,6 +35,3 @@ Two FlooBits features that we didn't get to try out but could be useful. An inde
 
 ### Expo Snacks: 
 Essentially JSFiddle but for React Native apps. This has an Android, iOS and Web emulator which makes testing and sharing easy if we need help on individual components.
-
-### Skype, Google Hangouts and Slack Calls: 
-All have similar features to Zoom if we ever need an alternative to Zoom.
