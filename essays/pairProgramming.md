@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Remote Pair Programming
-date: 2020-06-02
+date: 2020-06-04
 labels:
   - Pair Programming
   - Zoom
