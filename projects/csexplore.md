@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/csexplore.png
-title: CSExplore: A Mobile App to Engage High School Students in Computer Science
+title: CSExplore
 permalink: projects/csexplore
 # All dates must be YYYY-MM-DD format!
 date: 2020-07-29
